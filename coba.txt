@@ -1,14 +1,4 @@
-Urutkan nomor bebas :
-2
-3
-4
-56
-7
-89
-90
-0
-9
-8
-76
-4534
-3
+Isi pertanyaan dibawah ini 
+
+1. Nama Hewan 
+2. Nama Lengkap
