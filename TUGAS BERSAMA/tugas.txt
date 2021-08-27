@@ -8,4 +8,4 @@ c.foto
 5.bagian our amazing team diganti foto kalian
 6.masukan link sosial media satu aja tetapi logo harus sesuai
 7.contact us hapus 
-9.copyright ganti
+8.copyright ganti
