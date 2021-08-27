@@ -1,0 +1,11 @@
+1.Kerja kelompok
+2.Pakai template yang tadi jangan template baru 
+3.Judul dan tema silakan didiskusikan
+4.website harus ada 
+a.form (input email,text,number,select,radio,check)
+b.table
+c.foto 
+5.bagian our amazing team diganti foto kalian
+6.masukan link sosial media satu aja tetapi logo harus sesuai
+7.contact us hapus 
+9.copyright ganti
