@@ -1,0 +1,4 @@
+1. Ubah tulisannya jadi full bahasa indonesia
+2. Apus yang about dan Tambah table
+3. Ganti Gambar yang di portfolio
+4. footer copyright nama masing2
