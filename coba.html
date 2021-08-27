@@ -1,32 +1,59 @@
 <html>
 <head>
-    <title> Laporan Hadir siswa </title>
+<style>
+    table,th,td {
+        border : 0,3px solid rgb(97, 96, 96);
+        border-collapse: collapse;
+    }
+
+    
+</style>
+    <title> Latihan 1 Html </title>
 </head>
 <body>
-    <center><h2> laporan Hadir siswa </h2></center>
-    <center><h2> Kelas XI Ipa 3 </h2></center>
+    <h2> 1. table </h2>
 
-    <table border = "1" cellpadding = "15">
+    <table border = "1" table style = "width: 100%">
         <tr>
-            <td bgcolor= "Red"> Nomor   </td>
-            <td bgcolor= "Red"> Nama    </td>
-            <td bgcolor= "Red"> Absensi </td>
+            <th rowspan="2" style = "width: 10%"> No.   </th>
+            <th rowspan="2" style="width: 25%" > Nama    </th>
+            <th colspan="2" style="width: 25%" > Jenis Kelamin  </th>
+            <th rowspan="2" style="width: 25%" > Status </th>
         </tr>
         <tr>
-            <td> 1 </td>
-            <td> Wati </td>
-            <td> Ngurus pajar </td>
+            <th> laki laki</th>
+            <th> perempuan </th>
+        </tr>
+        <tr>
+            <td bgcolor="grey"> 1 </td>
+            <td bgcolor="grey"> Sandi </td>
+            <td bgcolor="grey"> ✔️ </td>
+            <td bgcolor="grey">  </td>
+            <td> Hadir </td>
+        
         </tr>
         <tr>
             <td> 2 </td>
-            <td> Rojak </td>
-            <td> Maen ML </td>
+            <td> Kapi </td>
+            <td> ✔️ </td>
+            <td>  </td>
+            <td> Tidak Hadir  </td>
         </tr>
         <tr>
             <td> 3 </td>
-            <td> Sagiri </td>
-            <td> Cari lanang </td>
+            <td> Juan </td>
+            <td>  </td>
+            <td> ✔️ </td>
+            <td> Hadir </td>
         </tr>
     </table>
+
+    <h2> 2. foto </h2>
+    <img src="alpani.jpeg" alt="wkwk" width="450" height="300">
+
+    <h2> 3. LINK </h2>
+    
+    <a href="https://youtu.be/dQw4w9WgXcQ/"> Di Sini ! </a>
+
 </body>
 </html>
