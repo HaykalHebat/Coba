@@ -1,0 +1,55 @@
+<html>
+<head><b>1. table</b><hr>
+</head>
+<body>
+<table border="1" align="center" cellspacing="10" cellpadding="5">
+<caption><b>Laporan Hadir Siswa<br>Absensi</caption></b>
+     <tr>
+	     <th rowspan="2">NO.</th>
+		 <th rowspan="2">Nama</th>
+		 <th align="center" colspan="2">Jenis Kelamin</th>
+		 <th rowspan="2">Status</th>
+	 </tr>
+	  <tr>
+	     <th >Laki laki</th>
+		 <th >Perempuan</th>
+	 </tr>
+	  <tr>
+	     <td >1.</td>
+		 <td >jidan</td>
+		 <td align="center">&radic;</td>
+		 <td ></td>
+         <td >Hadir</td>
+	 </tr>
+	  <tr>
+	     <td >2.</td>
+		 <td >jemat</td>
+		 <td align="center">&radic;</td>
+		 <td ></td>
+		 <td >tidak hardir</td>
+	 </tr>
+	  <tr>
+	     <td >3.</td>
+		 <td >Siska</td>
+		 <td ></td>
+		 <td align="center">&radic;</td>
+		 <td >Kawin lagi</td>
+		 
+	 </tr>
+
+</table>
+
+<br>
+<br>
+
+<h2>2.foto</h2>
+   
+
+    <img src="https://cdns.klimg.com/otosia.com/resized/475x/p/ff-eclipsen4r.jpg" alt="mobil fast and furious"width="500" height="333">
+
+<h2>3.link</h2>
+
+<a href="https://www.instagram.com/reflyalhafiz/" target="_blank" title="Follow Me"><img border="1" src="https://1.bp.blogspot.com/-6DDLJgFD9PE/WBK3tyivnTI/AAAAAAAAGwo/L21r-ZUwzJsMluLrE7sZZ2qQT0E_NKqwQCLcB/s1600/instagram.png" style="border: medium none; position: relative;" /></a>
+
+</body>
+</html>
