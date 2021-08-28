@@ -1,0 +1,5 @@
+1. Buatlah database yang terbaru
+2. tentukan hasil akhir
+3. Buat design database beserta table foreignkey dan primary key
+4. Simpan file draw.io
+5. Masukan ke folder TUGAS DATABASE 
