@@ -1,0 +1,31 @@
+dbcucian
+
+tbl_users
+id_user (varchar 10)
+username (varchar 10)
+password (varchar 10)
+
+tbl_input
+id_input (varchar 10)
+plat_mobil (varchar 10)
+jenis_cuci (varchar 10)
+harga (int)
+
+tbl_pengeluaran
+id_pengeluaran (varchar 10)
+gaji (int)
+jumlah (int)
+biaya (int)
+
+tbl_pendapatan
+id_pendapatan v10
+id_input v10
+id_pengeluaran v10
+id_user v10
+laba int
+
+
+
+
+NAMA DATABASE FIELD TABLE JANGAN PAKE SPASI
+

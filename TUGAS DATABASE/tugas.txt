@@ -3,3 +3,18 @@
 3. Buat design database beserta table foreignkey dan primary key
 4. Simpan file draw.io
 5. Masukan ke folder TUGAS DATABASE 
+
+======================================================================
+1. Web ?
+2. Alur ?
+3. Design database ?
+4. Design Tampilan ?
+
+1.Web : Pendaftaran Sekolah
+2.alur : calon siswa mengentry data , dan admin verifikasi siswa
+3.design = tbl_siswa, tbl_admin, tbl_hasil
+4.tampilan: 
+a Login
+b Input siswa -> berupa form
+c verifikasi admin-> berupa table
+d Hasil -> berupa table
