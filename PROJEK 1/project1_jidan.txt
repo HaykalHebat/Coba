@@ -1,0 +1,25 @@
+1. Buatlah database yang terbaru
+2. tentukan hasil akhir
+3. Buat design database beserta table foreignkey dan primary key
+4. Simpan file draw.io
+5. Masukan ke folder TUGAS DATABASE 
+
+======================================================================
+1. Web ?
+2. Alur ?
+3. Design database ?
+4. Design Tampilan ?
+
+1.Web : ujian online
+2.alur : pengetest mengentry data , dan pengetest memasukan kode test, dan di vertifikasi oleh admin
+setelah itu hasil test diterima oleh admin.
+3.design = tbl_user, tbl_soal, tbl_kode, tbl_hasil
+4.tampilan: 
+a Login
+b Input id -> berupa form
+c input kode -> berupa form
+d menunggu vertifikasi -> (bebas)
+e verifikasi admin-> berupa table
+f admin input peserta test -> berupa form
+g test -> berupa form (yang berbentuk tabel)
+h Hasil -> berupa table
