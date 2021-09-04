@@ -1,0 +1,13 @@
+1.Web: Pendaftaran Indihome Secara online
+2. Alur : pendaftar menginput data diri serta persyaratan pemasangan ke form dan data langsung ke admin
+3. design: tbl Paket,tbl Pendaftar, tbl user(admin only)
+4. Tampilan: 
+a. tampilan landing page: info produk
+  pilih produk(form input data pendaftar)
+b. login admin
+-admin input master data paket
+-admin lihat urutan pendaftar
+-admin menghubungi pndaftar
+
+
+
