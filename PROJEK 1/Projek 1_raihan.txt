@@ -1,0 +1,11 @@
+1. WEB  : Pengecekan Vaksinisasi
+2. Alur : Calon pasien vaksinisasi memasukan NIK, dan admin Menverifikasi Pasien sudah pernah vaksin atau belum
+3. design = tbl_Pasien, tbl_user (admin only)
+4. tampilan :
+- Masuk Web
+- Input NIK ==> Form 
+- loading screen ~ ==> Form
+- Login Admin ==> form
+- Admin input yang sudah vaksin ==> form
+- Verifikasi Dari Admin ==> Berupa form
+- Hasil ==>  teks / tampilan 
